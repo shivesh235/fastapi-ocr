@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+.result img {
+    max-width: 100%;
+    height: auto;
+}
+
+.result h3 {
+    color: #343a40;
+}
