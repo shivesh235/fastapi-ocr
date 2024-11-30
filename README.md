@@ -2,7 +2,8 @@
 
 This is a **FastAPI-based OCR (Optical Character Recognition)** web application that allows users to extract text from uploaded images. The app utilizes the **Tesseract OCR Engine** to convert text within images into a readable format.
 
----
+<img src="https://github.com/shivesh235/fastapi-ocr/blob/main/ocr.png" height=500>
+
 
 ## **Features**
 1. **Upload Images**:  
